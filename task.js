@@ -1,4 +1,4 @@
-/* SET OF FIRSTTASKS
+/* SET OF FIRSTTASKS(its till if else statment of practing)
 var varname="Bharath";
 let letname="Hath";
 const constname="Sath";
@@ -180,4 +180,5 @@ else if(num%3==0){
 }
 else if(num%5==0){
     console.log("Divisible by 5");
+
 }
